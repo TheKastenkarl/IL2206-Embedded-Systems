@@ -3,9 +3,11 @@ Repository for laboratories of the course [IL2206 Embedded Systems](https://www.
 The course covers both the hardware and software of embedded computer systems, with a focus on embedded realtime systems.
 
 ## Laboratory 1 : Concurrent and Real-Time Software Development in Ada
-In Lab 1 synchronization & communication mechanisms (like semaphores and rendezvous) and concurrency and real-time features of Ada are applied. For instance, multiple tasks are implemented and scheduled with the rate-monotonic algorithm:
-![Rate-monotonic schedule with four tasks](images/rate-monotonic-schedule.jpg)
+In Lab 1 synchronization & communication mechanisms (like semaphores and rendezvous) and concurrency and real-time features of Ada are applied. For instance, multiple tasks are implemented and scheduled with the rate-monotonic algorithm: <br/>
+
+<img src="images/rate-monotonic-schedule.jpg" alt="Rate-monotonic schedule with four tasks" width="600"/>
 
 ## Laboratory 2: Introduction to Real-Time Operating Systems (RTOS)
-Lab 2 covers similar topics as Lab 1 but for this lab instead of Ada the RTOS MicroC/OS-II is used. Furthermore, a toy cruise control application for the Altera DE2-115 FPGA board is designed and implemented using MicroC/OS-II.
-![Altera_DE2-115](images/Altera_DE2-115.jpg)
+Lab 2 covers similar topics as Lab 1 but for this lab instead of Ada the RTOS MicroC/OS-II is used. Furthermore, a toy cruise control application for the Altera DE2-115 FPGA board is designed and implemented using MicroC/OS-II. <br/>
+
+<img src="images/Altera_DE2-115.jpg" alt="Altera_DE2-115" width="600"/>
