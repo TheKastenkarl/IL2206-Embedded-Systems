@@ -217,8 +217,6 @@ void StartTask(void* pdata)
 
 
 int main(void) {
-
-
   printf("MicroC/OS-II-Vesion: %1.2f\n", (double) OSVersion()/100.0);
      
   OSTaskCreateExt(

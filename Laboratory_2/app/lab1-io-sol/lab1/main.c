@@ -14,7 +14,6 @@ int timeloc = 0x5957; /* startvalue given in hexadecimal/BCD-code */
 
 int main ()
 {
-    
     while (TRUE)
     {
         puttime (&timeloc);
